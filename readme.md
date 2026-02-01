@@ -80,50 +80,6 @@ These visualizations help in understanding data relationships and model performa
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/car-price-prediction-ml.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd car-price-prediction-ml
-```
-
-3. Install required libraries:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
-4. Open the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-5. Run **`car_price_prediction_with_ml.ipynb`**
-
----
-
-## 📌 Future Improvements
-
-- Try advanced models (Random Forest, XGBoost)
-- Perform hyperparameter tuning
-- Add cross-validation
-- Deploy the model using Flask or Streamlit
-
----
-
-## 📜 License
-
-This project is for **educational purposes only** and is free to use and modify.
-
----
 
 ⭐ *If you like this project, don’t forget to star the repository!*
 
